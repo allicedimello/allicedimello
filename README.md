@@ -35,6 +35,6 @@ Estudante de Sistemas de Informação na UNEB, em busca de conhecimento e oportu
 <h2> 📈 GitHub Stats </h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allicedimello&theme=transparent&bg_color=080808&border_color=666666&show_icons=true&icon_color=b81414&title_color=a0a0a0&text_color=FFF)
-![Snake animation](https://github.com/allicedimello/allicedimello/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/allicedimello/blob/output/github-contribution-grid-snake.svg)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=allicedimello&theme=shadow-red&background=080808&border=666666&dates=FFF)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allicedimello&layout=compact&bg_color=080808&border_color=666666&title_color=a0a0a0&&text_color=FFF)
