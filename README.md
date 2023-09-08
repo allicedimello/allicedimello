@@ -2,7 +2,7 @@
 
 <h1 align="center"> Olá, eu sou a Alice! 🖖🏻 </h1> 
 
-<h2> <img src="https://i.ibb.co/hKbLpPK/octocat-allicedimello.png" width="50px" height="50px" /> Sobre mim </h2>
+<h2> 👽 Sobre mim </h2>
 
 Eu sou uma pessoa desenvolvedora em aprendizado.  
 Estudante de Sistemas de Informação na UNEB, em busca de conhecimento e oportunidade.
@@ -34,6 +34,6 @@ Estudante de Sistemas de Informação na UNEB, em busca de conhecimento e oportu
 
 <h2> 📈 GitHub Stats </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allicedimello&theme=transparent&bg_color=080808&border_color=666666&show_icons=true&icon_color=b81414&title_color=a0a0a0&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=allicedimello&theme=shadow-red&background=080808&border=666666&dates=FFF)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allicedimello&layout=compact&bg_color=080808&border_color=666666&title_color=a0a0a0&&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allicedimello&layout=compact&bg_color=080808&border_color=666666&title_color=a0a0a0&&text_color=FFF)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allicedimello&theme=transparent&bg_color=080808&border_color=666666&show_icons=true&icon_color=b81414&title_color=a0a0a0&text_color=FFF)   
+[![GitHub Streak](https://streak-stats.demolab.com/?user=allicedimello&theme=shadow-red&background=080808&border=666666&dates=FFF)](https://git.io/streak-stats)  <img src="https://i.ibb.co/hKbLpPK/octocat-allicedimello.png" width="200px" height="200px" />
