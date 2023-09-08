@@ -4,7 +4,7 @@
 
 <h2> 👽 Sobre mim </h2>
 
-Eu sou uma pessoa desenvolvedora em aprendizado.  
+Desenvolvedora em aprendizado.  
 Estudante de Sistemas de Informação na UNEB, em busca de conhecimento e oportunidade.
 
 > <h2> About me </h2>
