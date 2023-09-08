@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s---MitVgj1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/u0gv8knz712v7h6j4rt7.jpg" width="1000px" height="300px" />  
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s---MitVgj1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/u0gv8knz712v7h6j4rt7.jpg" width="1000px" height="250px" />  
 
 <h1 align="center"> Olá, eu sou a Alice! 🖖🏻 </h1> 
 
