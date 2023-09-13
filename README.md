@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Alice in Wonderland readme bottle - https://dev-to-uploads.s3.amazonaws.com/i/u0gv8knz712v7h6j4rt7.jpg" src="https://i.imgur.com/3FNoBHQ.png" width="1000px" height="250px" />
+  <img alt="Alice in Wonderland readme bottle - https://dev.to/reginadiana/" src="https://i.imgur.com/3FNoBHQ.png" width="1000px" height="250px" />
 </div> 
 
 <h1 align="center">
