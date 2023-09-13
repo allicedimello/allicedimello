@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/C1h5q7G/readme.png" width="1000px" height="250px" />  
+<div align="center"> <img src="https://i.ibb.co/C1h5q7G/readme.png" width="1000px" height="250px" /> </div> 
 
 <h1 align="center"> Olá, eu sou a Alice! 🖖🏻 </h1> 
 
