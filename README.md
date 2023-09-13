@@ -35,7 +35,7 @@ Estudante de Sistemas de Informação na UNEB, em busca de conhecimento e oportu
 
 <h2> 📈 GitHub Stats </h2>
 
-<img align="right" alt="octocat edited by allicedimello - https://myoctocat.com/"  src="https://i.ibb.co/DL3X4pJ/octocat-allicedimello.png" width="450px" height="450px" />
+<img align="right" alt="octocat edited by allicedimello - https://myoctocat.com/"  src="https://i.ibb.co/DL3X4pJ/octocat-allicedimello.png" width="400px" height="400px" />
 
 <p align="left">
 
