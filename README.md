@@ -1,12 +1,12 @@
 <div align="center">
-  <img alt="Alice in Wonderland readme - https://dev-to-uploads.s3.amazonaws.com/i/u0gv8knz712v7h6j4rt7.jpg" src="https://i.ibb.co/C1h5q7G/readme.png" width="1000px" height="250px" />
+  <img alt="Alice in Wonderland readme bottle - https://dev-to-uploads.s3.amazonaws.com/i/u0gv8knz712v7h6j4rt7.jpg" src="https://i.imgur.com/3FNoBHQ.png" width="1000px" height="250px" />
 </div> 
 
 <h1 align="center">
   Olá, eu sou a Alice! 🖖🏻
 </h1> 
 
-<img align="right" alt="octocat edited by allicedimello - https://myoctocat.com/"  src="https://i.ibb.co/DL3X4pJ/octocat-allicedimello.png" width="300px" height="300px" />
+<img align="right" alt="octocat edited by allicedimello - https://myoctocat.com/"  src="https://i.imgur.com/uqdWhnU.png" width="300px" height="300px" />
 
 <h2>
   👽 Sobre mim
