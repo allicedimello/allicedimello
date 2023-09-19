@@ -39,13 +39,13 @@
 [![HTML](https://img.shields.io/badge/HTML-080808?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/css-080808?style=for-the-badge&logo=CSS3&logoColor=0E76A8)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![Markdown](https://img.shields.io/badge/markdown-080808?style=for-the-badge&logo=markdown)](https://developer.mozilla.org/pt-BR/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN)
-[![GitHub](https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 <h2>
   🛠 Ferramentas
 </h2>
 
 [![Git](https://img.shields.io/badge/-Git-080808?style=for-the-badge&logo=git)](https://git-scm.com/docs/git/pt_BR)
+[![GitHub](https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-080808?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)](https://code.visualstudio.com/Docs)
 [![Linux](https://img.shields.io/badge/-Linux-080808?style=for-the-badge&logo=linux)](https://www.linux.org/forums/#linux-tutorials)
 [![Windows](https://img.shields.io/badge/-Windows-080808?style=for-the-badge&logo=windows&logoColor=30A3DC)](https://learn.microsoft.com/pt-br/windows/)
