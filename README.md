@@ -3,7 +3,7 @@
 </div> 
 <br>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=faebd7&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Alice!+🖖🏻" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&pause=1000&color=faebd7&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Alice!+🖖🏻" alt="Typing SVG"/>
 </a>
 
 <img align="right" alt="octocat edited by allicedimello - https://myoctocat.com/"  src="https://i.imgur.com/uqdWhnU.png" width="300px" height="300px" />
