@@ -2,9 +2,9 @@
   <img alt="Alice in Wonderland readme bottle - https://dev.to/reginadiana/" src="https://i.imgur.com/3FNoBHQ.png" width="1000px" height="250px" />
 </div> 
 
-<h1 align="center">
-  Olá, eu sou a Alice! 🖖🏻
-</h1> 
+<h1 href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=fff&center=true&vCenter=true&width=950&lines=Olá,+eu+sou+a+Alice!+🖖🏻" alt="Typing SVG"/>
+</h1>
 
 <img align="right" alt="octocat edited by allicedimello - https://myoctocat.com/"  src="https://i.imgur.com/uqdWhnU.png" width="300px" height="300px" />
 
