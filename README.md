@@ -23,7 +23,7 @@
 </p>
 
 <h2>
-  ✉️ Contatos
+  ✉️ Contato/Contact me
 </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/allicedimello/)
@@ -32,7 +32,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-080808?style=for-the-badge&logo=gitlab)](https://gitlab.com/allicedimello)
 
 <h2>
-  🧠 Habilidades
+  🧠 Habilidades/Skills
 </h2>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-080808?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -41,7 +41,7 @@
 [![Markdown](https://img.shields.io/badge/markdown-080808?style=for-the-badge&logo=markdown)](https://developer.mozilla.org/pt-BR/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN)
 
 <h2>
-  🛠 Ferramentas
+  🛠 Ferramentas/Tools
 </h2>
 
 [![Git](https://img.shields.io/badge/-Git-080808?style=for-the-badge&logo=git)](https://git-scm.com/docs/git/pt_BR)
