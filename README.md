@@ -13,13 +13,19 @@
 </h2>
 
 <p align="left">
-  Desenvolvedora em aprendizado.
+  Apaixonada por tecnologia e em constante aprendizado para aprimorar minhas habilidades na área.
   <br>
-  Estudante de Sistemas de Informação na UNEB, em busca de conhecimento e oportunidade.
+  Tenho formação técnica em Mecatrônica pela Fundação Bahiana de Engenharia e cursei Sistemas de Informação na Universidade do Estado da Bahia. 
+  <br>
+  Possuo conhecimentos iniciais em programação, desenvolvimento web e versionamento de código, com certificações em JavaScript, Python, .NET, HTML/CSS, Git/GitHub e computação em nuvem (AWS).
+  <br>
+  Tenho interesse especial em desenvolvimento de software e busco aplicar boas práticas de codificação, lógica de programação e integração de sistemas.
   
   > <h2> About me </h2>
-  > I am a web developer and student currently living in Salvador-BA. My interests range from technology to programming. I am also interested in web development.  
-  > If you’d like to get in touch, feel free to say hello through any of the social links below.
+  > I'm passionate about technology and continuously learning to enhance my skills.  
+  > I have a technical degree in Mechatronics from Fundação Bahiana de Engenharia and I studied Information Systems at Universidade do Estado da Bahia.
+  > I have foundational knowledge in programming, web development, and version control, with certifications in JavaScript, Python, .NET, HTML/CSS, Git/GitHub, and cloud computing (AWS).
+  > I'm particularly interested in software development and strive to apply best coding practices, logical thinking, and system integration.
 </p>
 
 <h2>
