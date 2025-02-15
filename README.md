@@ -24,7 +24,7 @@
   > <h2> About me </h2>
   > I'm passionate about technology and continuously learning to enhance my skills.  
   > I have a technical degree in Mechatronics from Fundação Bahiana de Engenharia and I studied Information Systems at Universidade do Estado da Bahia.
-  > I have foundational knowledge in programming, web development, and version control, with certifications in JavaScript, Python, .NET, HTML/CSS, Git/GitHub, and cloud computing (AWS).
+  > I have knowledge in programming, web development, and version control, with certifications in JavaScript, Python, .NET, HTML/CSS, Git/GitHub, and cloud computing (AWS).
   > I'm particularly interested in software development and strive to apply best coding practices, logical thinking, and system integration.
 </p>
 
