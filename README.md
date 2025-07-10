@@ -35,8 +35,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/allicedimello/)
 [![Discord](https://img.shields.io/badge/Discord-080808?style=for-the-badge&logo=discord)](https://www.discord.com/channels/allicedimello/)
 [![E-mail](https://img.shields.io/badge/-Email-080808?style=for-the-badge&logo=microsoft-outlook&logoColor=4869ee)](mailto:allicedimello@outlook.com)
-[![GitLab](https://img.shields.io/badge/GitLab-080808?style=for-the-badge&logo=gitlab)](https://gitlab.com/allicedimello)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-080808?style=for-the-badge&logo=bitbucket&logoColor=30A3DC)](https://bitbucket.org/alicemelo/workspace/overview/)
+<!--[![GitLab](https://img.shields.io/badge/GitLab-080808?style=for-the-badge&logo=gitlab)](https://gitlab.com/allicedimello)-->
+<!--[![Bitbucket](https://img.shields.io/badge/Bitbucket-080808?style=for-the-badge&logo=bitbucket&logoColor=30A3DC)](https://bitbucket.org/alicemelo/workspace/overview/)-->
+[![Gitea](https://img.shields.io/badge/Gitea-080808?style=for-the-badge&logo=gitea)](https://gitea.com/allicedimello)
 
 <h2>
   🧠 Habilidades/Skills
