@@ -56,6 +56,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-080808?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)](https://code.visualstudio.com/Docs)
 [![Linux](https://img.shields.io/badge/-Linux-080808?style=for-the-badge&logo=linux)](https://www.linux.org/forums/#linux-tutorials)
 [![Windows](https://img.shields.io/badge/-Windows-080808?style=for-the-badge&logo=windows&logoColor=30A3DC)](https://learn.microsoft.com/pt-br/windows/)
+<br>
 [![GitHub](https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-080808?style=for-the-badge&logo=gitlab)](https://docs.gitlab.com/)
 [![Gitea](https://img.shields.io/badge/Gitea-080808?style=for-the-badge&logo=gitea)](https://docs.gitea.com/)
