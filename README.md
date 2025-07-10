@@ -36,7 +36,7 @@
 [![Discord](https://img.shields.io/badge/Discord-080808?style=for-the-badge&logo=discord)](https://www.discord.com/channels/allicedimello/)
 [![E-mail](https://img.shields.io/badge/-Email-080808?style=for-the-badge&logo=microsoft-outlook&logoColor=4869ee)](mailto:allicedimello@outlook.com)
 [![GitLab](https://img.shields.io/badge/GitLab-080808?style=for-the-badge&logo=gitlab)](https://gitlab.com/allicedimello)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-080808?style=for-the-badge&logo=bitbucket&logoColor=30A3DC)]([https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-documentation-776639749.html](https://bitbucket.org/alicemelo/workspace/overview/))
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-080808?style=for-the-badge&logo=bitbucket&logoColor=30A3DC)](https://bitbucket.org/alicemelo/workspace/overview/)
 
 <h2>
   🧠 Habilidades/Skills
