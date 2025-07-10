@@ -53,10 +53,13 @@
 </h2>
 
 [![Git](https://img.shields.io/badge/-Git-080808?style=for-the-badge&logo=git)](https://git-scm.com/docs/git/pt_BR)
-[![GitHub](https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-080808?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)](https://code.visualstudio.com/Docs)
 [![Linux](https://img.shields.io/badge/-Linux-080808?style=for-the-badge&logo=linux)](https://www.linux.org/forums/#linux-tutorials)
 [![Windows](https://img.shields.io/badge/-Windows-080808?style=for-the-badge&logo=windows&logoColor=30A3DC)](https://learn.microsoft.com/pt-br/windows/)
+[![GitHub](https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-080808?style=for-the-badge&logo=gitlab)](https://docs.gitlab.com/)
+[![Gitea](https://img.shields.io/badge/Gitea-080808?style=for-the-badge&logo=gitea)](https://docs.gitea.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-080808?style=for-the-badge&logo=bitbucket&logoColor=30A3DC)](https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-documentation-776639749.html)
 
 <h2>
   📈 GitHub Stats
